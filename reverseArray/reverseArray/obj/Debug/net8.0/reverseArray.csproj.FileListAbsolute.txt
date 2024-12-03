@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\reverseArray\reverseArray\bin\Debug\net8.0\reverseArray.exe
+C:\Users\elsad\source\repos\reverseArray\reverseArray\bin\Debug\net8.0\reverseArray.deps.json
+C:\Users\elsad\source\repos\reverseArray\reverseArray\bin\Debug\net8.0\reverseArray.runtimeconfig.json
+C:\Users\elsad\source\repos\reverseArray\reverseArray\bin\Debug\net8.0\reverseArray.dll
+C:\Users\elsad\source\repos\reverseArray\reverseArray\bin\Debug\net8.0\reverseArray.pdb
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.AssemblyInfo.cs
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.dll
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\refint\reverseArray.dll
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.pdb
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\reverseArray.genruntimeconfig.cache
+C:\Users\elsad\source\repos\reverseArray\reverseArray\obj\Debug\net8.0\ref\reverseArray.dll
