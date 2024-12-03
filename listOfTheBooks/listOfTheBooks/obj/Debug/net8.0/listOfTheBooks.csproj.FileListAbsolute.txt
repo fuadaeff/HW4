@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\bin\Debug\net8.0\listOfTheBooks.exe
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\bin\Debug\net8.0\listOfTheBooks.deps.json
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\bin\Debug\net8.0\listOfTheBooks.runtimeconfig.json
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\bin\Debug\net8.0\listOfTheBooks.dll
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\bin\Debug\net8.0\listOfTheBooks.pdb
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.AssemblyInfo.cs
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.dll
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\refint\listOfTheBooks.dll
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.pdb
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\listOfTheBooks.genruntimeconfig.cache
+C:\Users\elsad\source\repos\listOfTheBooks\listOfTheBooks\obj\Debug\net8.0\ref\listOfTheBooks.dll
