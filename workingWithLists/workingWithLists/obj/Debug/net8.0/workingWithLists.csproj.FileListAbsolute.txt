@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.AssemblyInfo.cs
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\bin\Debug\net8.0\workingWithLists.exe
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\bin\Debug\net8.0\workingWithLists.deps.json
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\bin\Debug\net8.0\workingWithLists.runtimeconfig.json
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\bin\Debug\net8.0\workingWithLists.dll
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\bin\Debug\net8.0\workingWithLists.pdb
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.dll
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\refint\workingWithLists.dll
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.pdb
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\workingWithLists.genruntimeconfig.cache
+C:\Users\elsad\source\repos\workingWithLists\workingWithLists\obj\Debug\net8.0\ref\workingWithLists.dll
