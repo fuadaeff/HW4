@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.AssemblyInfo.cs
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\bin\Debug\net8.0\workingWithArrays.exe
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\bin\Debug\net8.0\workingWithArrays.deps.json
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\bin\Debug\net8.0\workingWithArrays.runtimeconfig.json
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\bin\Debug\net8.0\workingWithArrays.dll
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\bin\Debug\net8.0\workingWithArrays.pdb
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.dll
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\refint\workingWithArrays.dll
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.pdb
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\workingWithArrays.genruntimeconfig.cache
+C:\Users\elsad\source\repos\workingWithArrays\workingWithArrays\obj\Debug\net8.0\ref\workingWithArrays.dll
