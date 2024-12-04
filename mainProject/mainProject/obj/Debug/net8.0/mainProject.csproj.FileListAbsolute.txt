@@ -1,0 +1,14 @@
+C:\Users\elsad\source\repos\mainProject\mainProject\bin\Debug\net8.0\mainProject.exe
+C:\Users\elsad\source\repos\mainProject\mainProject\bin\Debug\net8.0\mainProject.deps.json
+C:\Users\elsad\source\repos\mainProject\mainProject\bin\Debug\net8.0\mainProject.runtimeconfig.json
+C:\Users\elsad\source\repos\mainProject\mainProject\bin\Debug\net8.0\mainProject.dll
+C:\Users\elsad\source\repos\mainProject\mainProject\bin\Debug\net8.0\mainProject.pdb
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.AssemblyInfoInputs.cache
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.AssemblyInfo.cs
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.csproj.CoreCompileInputs.cache
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.dll
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\refint\mainProject.dll
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.pdb
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\mainProject.genruntimeconfig.cache
+C:\Users\elsad\source\repos\mainProject\mainProject\obj\Debug\net8.0\ref\mainProject.dll
